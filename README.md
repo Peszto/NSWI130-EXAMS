@@ -4,7 +4,7 @@
 
 ### stakeholders
 - students
-- techers
+- teachers
 ### feature areas
 - exam terms management and room reservation
 - register for the exam terms
